@@ -1,0 +1,6 @@
+red
+pink
+violet
+green
+hot
+cool
