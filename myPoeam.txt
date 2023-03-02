@@ -3,4 +3,6 @@ pink
 violet
 green
 hot
+not hot
+demo
 cool
