@@ -4,5 +4,6 @@ violet
 green
 hot
 not hot
+now comiited
 demo
 cool
